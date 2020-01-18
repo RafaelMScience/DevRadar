@@ -34,6 +34,9 @@ No WEB adicionar desenvolvedores através do github mais perto de voce usando um
 * Insomnia
 * VsCode
 
+## Omnistack 10.0
+Foi desenvolvido o projeto em 1 semana na semana do Omnistack oferecido pela Rockeatseat feito comecado e terminado de segunda ate sexta
+
 ## Repositorios
 
 Repositorio Back End em NodeJs

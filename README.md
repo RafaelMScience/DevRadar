@@ -9,13 +9,13 @@
 
 O node faz toda conexao entre a parte web adicionando os usuarios no banco e retornando tanto para visualizar na web quanto do mobile
 
-![](../devradar.png)
+![](devradar.png)
 
 ## Web React
 
 Adiciona o usuario usando apenas o nome do github quais tecnologias ele gosta e sua localizacao.
 
-![](../devradarprint1.jpeg)
+![](devradarprint1.jpeg)
 
 ## Mobiel React-Native
 
@@ -33,3 +33,16 @@ No WEB adicionar desenvolvedores através do github mais perto de voce usando um
 * Nodejs
 * Insomnia
 * VsCode
+
+## Repositorios
+
+[Back End Nodejs](https://github.com/RafaelMScience/BackEnd_DevRadar)
+[Web React](https://github.com/RafaelMScience/Web_DevRadar)
+[Mobile React-Native](https://github.com/RafaelMScience/Mobile_DevRada)
+
+[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/datadog-metrics
+[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
+[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
+[wiki]: https://github.com/seunome/seuprojeto/wiki

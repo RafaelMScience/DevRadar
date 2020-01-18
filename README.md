@@ -9,17 +9,17 @@
 
 O node faz toda conexao entre a parte web adicionando os usuarios no banco e retornando tanto para visualizar na web quanto do mobile
 
-![](devradar.png)
-
 ## Web React
 
 Adiciona o usuario usando apenas o nome do github quais tecnologias ele gosta e sua localizacao.
 
-![](devradarprint1.jpeg)
+![](devradar.png)
 
 ## Mobiel React-Native
 
-Voce consegue visualizar através de um mapa os desenvolvedores perto com seu nome e localizacao ao clicar no icone tambem e possivel visualizar seu perfil no github
+Voce consegue visualizar através de um mapa os desenvolvedores perto com seu nome e localizacao ao clicar no icone tambem e possivel visualizar seu perfil no github.
+
+![](devradarprint1.jpeg)
 
 ## Como funciona
 

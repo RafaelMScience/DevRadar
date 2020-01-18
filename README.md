@@ -39,13 +39,13 @@ Foi desenvolvido o projeto em 1 semana na semana do Omnistack oferecido pela Roc
 
 ## Repositorios
 
-Repositorio Back End em NodeJs
+Repositorio Back End em 
 [Nodejs](https://github.com/RafaelMScience/BackEnd_DevRadar)
 
-Repositorio Web em React
+Repositorio Web em 
 [React](https://github.com/RafaelMScience/Web_DevRadar)
 
-Repositorio Mobile em React Native
+Repositorio Mobile em 
 [React-Native](https://github.com/RafaelMScience/Mobile_DevRada)
 
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
